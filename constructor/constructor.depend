@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1540853589 source:c:\users\alumno\desktop\constructor\main.c
+	<stdio.h>
+	<stdlib.h>
+	"constructor.h"
+
+1540852903 c:\users\alumno\desktop\constructor\constructor.h
+
